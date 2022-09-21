@@ -1,7 +1,8 @@
 *{
   padding: 0;
   margin: 0;}
-
+body{
+  width 85%}
 header.main{
   background-image: linear-gradient(  #ffffff, #fbfbfb 10%, #ffffff 75%)
 }
